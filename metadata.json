@@ -1,0 +1,6 @@
+{
+  "name": "InAmigos Website Audit",
+  "description": "A comprehensive UI/UX audit, design review, and optimization roadmap for the InAmigos Foundation website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
